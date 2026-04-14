@@ -3,9 +3,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat-square)](https://github.com/omega-techh)
-[![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)](https://www.python.org/.
 [![Django](https://img.shields.io/badge/Django-REST%20API-darkgreen?style=flat-square&logo=django)](https://www.djangoproject.com/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 **Plataforma Inteligente para Monitoramento e Otimização de Infraestruturas Sustentáveis**
 
@@ -389,15 +388,6 @@ O projeto utiliza as seguintes tabelas principais:
 
 ---
 
-## 📚 Documentação
-
-- [Documento do Projeto](./docs/Projeto_OmegaTech_Fase2.pdf)
-- [Casos de Uso UML](./docs/uml_casos_uso.png)
-- [Modelo de Banco de Dados](./docs/modelo_banco_dados.png)
-- [Protótipos do Frontend](./docs/prototipos_frontend.png)
-
----
-
 ## 🔄 Ciclo de Vida do Projeto
 
 O projeto segue metodologia **SCRUM** orientada por sprints iterativas:
@@ -419,17 +409,7 @@ O projeto segue metodologia **SCRUM** orientada por sprints iterativas:
 - 🔄 Integração frontend-backend (em progresso)
 - 🔄 Testes completos (em progresso)
 - ⏳ Deploy em produção (próximo)
-
----
-
-## 🤝 Contribuindo
-
-1. Faça um Fork do repositório
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
+  
 ---
 
 ## 📄 Licença
@@ -437,28 +417,3 @@ O projeto segue metodologia **SCRUM** orientada por sprints iterativas:
 Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ---
-
-## 📞 Contato & Suporte
-
-- **GitHub**: [omega-techh](https://github.com/omega-techh)
-- **Projeto Kanban**: [Projects](https://github.com/orgs/omega-techh/projects/1/views/1)
-- **Email**: suporte@omegatech.com.br
-
----
-
-## 🎓 Instituição
-
-**FHO - Fundação Hermínio Ometto**
-- Projeto Interdisciplinar III
-- 5º Semestre [B] - 2026
-- Curso: Sistemas de Informação
-
----
-
-<div align="center">
-
-**Made with ❤️ by OmegaTech Team**
-
-⭐ Se este projeto foi útil, considere dar uma estrela!
-
-</div>
